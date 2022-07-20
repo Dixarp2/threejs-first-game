@@ -1,10 +1,10 @@
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.124/build/three.module.js';
 
-import {player} from './player.js';
-import {world} from './world.js';
-import {background} from './background.js';
+import {player} from 'https://dixarp2.github.io/threejs-first-game/player.js';
+import {world} from 'https://dixarp2.github.io/threejs-first-game/world.js';
+import {background} from 'https://dixarp2.github.io/threejs-first-game/background.js';
 
-import {ground} from './ground.js';
+import {ground} from 'https://dixarp2.github.io/threejs-first-game/ground.js';
 
 
 
